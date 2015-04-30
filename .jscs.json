@@ -66,5 +66,7 @@
     "requireSemicolons": true,
     "validateParameterSeparator": ", ",
     "disallowMultipleSpaces": true,
-    "disallowSpacesInCallExpression": true
+    "disallowSpacesInCallExpression": true,
+    "requireAnonymousFunctions": true,
+    "requirePaddingNewLinesAfterUseStrict": true,
 }

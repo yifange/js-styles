@@ -23,7 +23,6 @@
     "angular": false,
     "_": false,
     "moment": false,
-    "window": false,
     "$": false
   }
 }
